@@ -1,0 +1,7 @@
+Interfaces con python: TkInter, PyGTK, PyQt y wxPython
+Automatización de sistemas: Ansible y Salt stack
+Back-end: Django y Flask
+PostgreSQL: The psycopg, PyGreSQL
+SQL: MySQL Connector/Python, MariaDB Connector/Python
+NoSQL: PyMongo, PySQLite3
+Calculo y Algoritmos de Datos: Pandas, NumPy, SciPy, (matplotlib)
